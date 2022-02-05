@@ -1,0 +1,58 @@
+{
+  "courses": [
+    { 
+      "id": 1,
+      "title": "react courses",
+      "imageCourse": "https://s6.uupload.ir/files/react_88ag.png",
+      "dataAos": "fade-up",
+			"dataAosDelay": "0",
+			"dataAosEasing": "ease",
+      "price": 1929000
+    },
+    { 
+      "id": 2, 
+      "title": "js courses",
+      "imageCourse": "https://s6.uupload.ir/files/javascript_sp4l.png",
+      "dataAos": "fade-up",
+			"dataAosDelay": "100",
+			"dataAosEasing": "ease",
+      "price": 1219000
+    },
+    { 
+      "id": 3, 
+      "title": "git courses",
+      "imageCourse": "https://s6.uupload.ir/files/git_sa.png",
+      "dataAos": "fade-up",
+			"dataAosDelay": "200",
+			"dataAosEasing": "ease",
+      "price": 199000
+    },
+    { 
+      "id": 4, 
+      "title": "flex,grid courses",
+      "imageCourse": "https://s6.uupload.ir/files/flex-grid_nhdn.png",
+      "dataAos": "fade-up",
+			"dataAosDelay": "300",
+			"dataAosEasing": "ease",
+      "price": 190000
+    },
+    { 
+      "id": 5, 
+      "title": "vs code courses",
+      "imageCourse": "https://s6.uupload.ir/files/vs-code_y7qf.png",
+      "dataAos": "fade-up",
+			"dataAosDelay": "400",
+			"dataAosEasing": "ease",
+      "price": "رایگان"
+    },
+    { 
+      "id": 6, 
+      "title": "html,css courses",
+      "imageCourse": "https://s6.uupload.ir/files/html-css_xaty.png",
+      "dataAos": "fade-up",
+			"dataAosDelay": "500",
+			"dataAosEasing": "ease",
+      "price": 398000
+    }
+  ]
+}

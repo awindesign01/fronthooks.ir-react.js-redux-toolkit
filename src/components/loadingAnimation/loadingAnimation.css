@@ -1,0 +1,120 @@
+.ball1 {
+	background-color: lightslategray;
+	position: relative;
+	animation-delay: 0s;
+	animation-direction: normal;
+	animation-duration: 1.2s;
+	animation-iteration-count: infinite;
+	animation-name: circle1;
+	animation-timing-function: linear;
+}
+.ball2 {
+	background-color: lightslategray;
+	position: relative;
+	animation-delay: 0.2s;
+	animation-direction: normal;
+	animation-duration: 1.2s;
+	animation-iteration-count: infinite;
+	animation-name: circle2;
+	animation-timing-function: linear;
+}
+.ball3 {
+	background-color: lightslategray;
+	position: relative;
+	animation-delay: 0.4s;
+	animation-direction: normal;
+	animation-duration: 1.2s;
+	animation-iteration-count: infinite;
+	animation-name: circle3;
+	animation-timing-function: linear;
+}
+.ball4 {
+	background-color: rgba(109, 40, 217);
+	position: relative;
+	animation-delay: 0.6s;
+	animation-direction: normal;
+	animation-duration: 1.2s;
+	animation-iteration-count: infinite;
+	animation-name: circle4;
+	animation-timing-function: linear;
+}
+.ball5 {
+	background-color: lightslategray;
+	position: relative;
+	animation-delay: 0.8s;
+	animation-direction: normal;
+	animation-duration: 1.2s;
+	animation-iteration-count: infinite;
+	animation-name: circle5;
+	animation-timing-function: linear;
+}
+@keyframes circle1 {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	50% {
+		top: -40px;
+		left: 0;
+	}
+	100% {
+		top: 0;
+		left: 0;
+	}
+}
+@keyframes circle2 {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	50% {
+		top: -40px;
+		left: 0;
+	}
+	100% {
+		top: 0;
+		left: 0;
+	}
+}
+@keyframes circle3 {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	50% {
+		top: -40px;
+		left: 0;
+	}
+	100% {
+		top: 0;
+		left: 0;
+	}
+}
+@keyframes circle4 {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	50% {
+		top: -40px;
+		left: 0;
+	}
+	100% {
+		top: 0;
+		left: 0;
+	}
+}
+@keyframes circle5 {
+	0% {
+		top: 0;
+		left: 0;
+	}
+	50% {
+		top: -40px;
+		left: 0;
+	}
+	100% {
+		top: 0;
+		left: 0;
+	}
+}
